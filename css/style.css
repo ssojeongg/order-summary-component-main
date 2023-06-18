@@ -106,6 +106,10 @@ article {
 }
 
 @media only screen and (max-width: 375px) {
+  body {
+    background-image: url(/images/pattern-background-mobile.svg);
+  }
+
   main {
     max-width: 375px;
     margin: 3rem 0;
